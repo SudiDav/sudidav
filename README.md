@@ -2,7 +2,7 @@
   Hello world 👋 I'm Sudi David🚲🎧
 </h1>
 <p align='center'>
-  .NET Enthusiast, Full Stack Web Developer from Goma, DRC.
+  .NET Enthusiast, Full Stack Web Developer from Goma, DRC. <br />
   Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">Dotnet Club Goma</a>
 </p>
 <p align='center'>
@@ -14,8 +14,11 @@
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/Sudi_Dav">    
     <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;  
+</p>
+
+<p align='center'>
+  📫 Get in touch: <a href='mailto:sudisimbadav@gmail.com'>sudisimbadav@gmail.com</a>
 </p>
 
 <p align='center'>
@@ -32,7 +35,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... on Xamarin forms
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... 
-- 📫 How to reach me: ... sudisimbadav@gmail.com
+- 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
