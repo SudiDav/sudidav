@@ -1,10 +1,13 @@
 <h1 align='center'>
-  Hello world 👋 I'm Sudi 🚲🎧
+  Hello world 👋 I'm Sudi David🚲🎧
 </h1>
 <p align='center'>
-  Full Stack Web .Net developer from Goma, DRC.
+  .NET Enthusiast, Full Stack Web Developer from Goma, DRC.
+  Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">Dotnet Club Goma</a>
 </p>
-
+<p align='center'>
+   🌱 I’m currently learning ... Mobile Apps with Xamarin Forms  
+</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/sudi-david-5887b5102/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,7 +18,7 @@
   
 </p>
 
-<p>
+<p align='center'>
   Thanks for stopping by🤝🏿🤝🏿  
 </p>
 
