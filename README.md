@@ -10,9 +10,13 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/Sudi_Dav">    
-    <img src="https://img.shields.io/twitter/url?style=social" />        
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
+</p>
+
+<p>
+  Thanks for stopping by🤝🏿🤝🏿  
 </p>
 
 <!--
