@@ -6,7 +6,7 @@
   Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">Dotnet Club Goma</a>
 </p>
 <p align='center'>
-   🌱 I’m currently learning ... Mobile Apps with Xamarin Forms  
+   🌱 A wet person does not fear the rain 
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/sudi-david-5887b5102/">
