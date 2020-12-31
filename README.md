@@ -1,6 +1,9 @@
 <h1 align='center'>
   Hello world 👋 I'm Sudi David🚲🎧
 </h1>
+![](https://github-readme-stats.vercel.app/api?username=sudidav&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudidav&layout=compact)
 <p align='center'>
   .NET Enthusiast, Full Stack Web Developer from Goma, DRC. <br />
   Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">.NET Club Goma</a>
@@ -28,9 +31,7 @@
 <!--
 **SudiDav/sudidav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://github-readme-stats.vercel.app/api?username=sudidav&show_icons=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudidav&layout=compact)
 
 Here are some ideas to get you started:
 
