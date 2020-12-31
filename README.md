@@ -1,9 +1,6 @@
 <h1 align='center'>
   Hello world 👋 I'm Sudi David🚲🎧
 </h1>
-![](https://github-readme-stats.vercel.app/api?username=sudidav&show_icons=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudidav&layout=compact)
 <p align='center'>
   .NET Enthusiast, Full Stack Web Developer from Goma, DRC. <br />
   Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">.NET Club Goma</a>
@@ -19,7 +16,8 @@
     <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;  
 </p>
-
+![](https://github-readme-stats.vercel.app/api?username=sudidav&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudidav&layout=compact)
 <p align='center'>
   📫 Get in touch: <a href='mailto:sudisimbadav@gmail.com'>sudisimbadav@gmail.com</a>
 </p>
