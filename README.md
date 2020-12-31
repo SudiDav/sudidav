@@ -16,26 +16,22 @@
     <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;  
 </p>
+
 ![](https://github-readme-stats.vercel.app/api?username=sudidav&show_icons=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudidav&layout=compact)
+
 <p align='center'>
   📫 Get in touch: <a href='mailto:sudisimbadav@gmail.com'>sudisimbadav@gmail.com</a>
 </p>
 
-<p align='center'>
-  Thanks for stopping by🤝🏿🤝🏿  
-</p>
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...my portfolio
 - 🌱 I’m currently learning ... Mobile Apps with Xamarin Forms
 - 👯 I’m looking to collaborate on ... on Xamarin forms
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- 🤔 I’m looking for help with ... Xamarin forms
+- ⚡ Fun fact: Life is sweet
+
+<p align='center'>
+  Thanks for stopping by🤝🏿🤝🏿  
+</p>
 
