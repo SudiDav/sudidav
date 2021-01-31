@@ -3,7 +3,7 @@
 </h1>
 <p align='center'>
   .NET Enthusiast, Full Stack Web Developer from Goma, DRC. <br />
-  Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">.NET Club Goma</a>
+  Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">.NET Club DRC</a>
 </p>
 <p align='center'>
    🌱 A wet person does not fear the rain 
