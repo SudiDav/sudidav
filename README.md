@@ -2,7 +2,7 @@
   Hello world 👋 I'm Sudi David🚲🎧
 </h1>
 <p align='center'>
-  .NET Enthusiast, Full Stack Web Developer from Goma, DRC. <br />
+  Technology Enthusiast, Full Stack Web Developer from Goma, DRC/Kinshasa. <br />
   Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">.NET Club DRC</a>
 </p>
 <p align='center'>
