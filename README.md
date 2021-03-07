@@ -2,7 +2,7 @@
   Hello world 👋 I'm Sudi David🚲🎧
 </h1>
 <p align='center'>
-  Technology Enthusiast, Full Stack Web Developer from Goma, DRC/Kinshasa. <br />
+  Technology Enthusiast, Full Stack Web Developer. <br />
   Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">.NET Club DRC</a>
 </p>
 <p align='center'>
@@ -26,9 +26,6 @@
 </p>
 
 - 🔭 I’m currently working on ...my portfolio
-- 🌱 I’m currently learning ... Mobile Apps with Xamarin Forms
-- 👯 I’m looking to collaborate on ... on Xamarin forms
-- 🤔 I’m looking for help with ... Xamarin forms
 - ⚡ Fun fact: Life is sweet
 
 <p align='center'>
