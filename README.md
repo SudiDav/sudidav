@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudidav&layout=compact)
 
 <p align='center'>
-  📫 Get in touch: <a href='mailto:sudisimbadav@gmail.com'>sudisimbadav@gmail.com</a>
+  📫 Get in touch: <a href='mailto:sudimayenge@gmail.com'>sudimayenge@gmail.com</a>
 </p>
 
 - 🔭 I’m currently working on ...my portfolio
