@@ -2,8 +2,8 @@
   Hello beautiful People 👋 I'm Sudi David🚲🎧
 </h1>
 <p align='center'>
-  Technology Enthusiast, Full Stack Web Developer. <br />
-  Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">.NET Club DRC</a>
+  Technology Enthusiast, Software Engineer. <br />
+  Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">.NET Club DRC</a> user Group
 </p>
 <p align='center'>
    🌱 A wet person does not fear the rain 
