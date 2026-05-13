@@ -3,7 +3,7 @@
 </h1>
 <p align='center'>
   Technology Enthusiast, Software Engineer. <br />
-  Initiator of <a href="https://www.meetup.com/Dotnet-Club-Goma/">.NET Club DRC</a> user Group
+  Initiator of <a href="https://github.com/Dotnet-Community-DRC">.NET Club DRC</a> user Group
 </p>
 <p align='center'>
    🌱 A wet person does not fear the rain 
