@@ -25,7 +25,7 @@
   📫 Get in touch: <a href='mailto:contact@sudi.dev'>contact@sudi.dev</a>
 </p>
 
-- 🔭 I’m currently learning Blazor WebAssembly
+- 🔭 I’m currently learning Rust
 - ⚡ Fun fact: Life is sweet
 
 <p align='center'>
